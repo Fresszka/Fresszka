@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm programmer from Poland. Programming is my passion. When I was 12 years old got interesting about computer-science.
+👋 Hi, I'm front-end developer from Poland. Programming is my passion. When I was 12 years old got interesting about computer-science.
 
 
 # 💻 Tech Stack:
